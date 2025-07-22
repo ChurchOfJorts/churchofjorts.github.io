@@ -1,19 +1,22 @@
 # GitHub Pages Website
 
-This project is a simple website designed to be hosted on GitHub Pages. It includes a main HTML document, CSS for styling, and JavaScript for interactivity.
+This project is a simple website designed to be hosted on GitHub Pages for creating blog posts and sharing information.
 
 ## Project Structure
 
 ```
 github-pages-website
-├── src
-│   ├── index.html        # Main HTML document
-│   ├── styles
-│   │   └── main.css      # Styles for the website
-│   └── scripts
+├── _includes
+│   └──header.html        #The header html page
+├── _layouts
+│   └──default.html       #The default html page
+├── assets
+│   ├── styles.css        # Styles for the website
+│   └── js
 │       └── main.js       # JavaScript for interactivity
-├── .gitignore            # Files and directories to ignore by Git
-└── README.md             # Documentation for the project
+├── index.md              # Main Jenkyl markdown page
+├── _config.yml           # Main Jenkyl config
+└── README.md             # Project documentation
 ```
 
 ## License
