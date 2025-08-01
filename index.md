@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Jekyll Site
+# 🛸 Welcome to the Church Of Jorts
 
-This site supports **dark mode** with a JavaScript toggle. Pretty slick!
+**Cybersecurity research. Digital disobedience. Keyboard worship.**
+
+Explore the [About Me](/about), dive into the [Blog](/blog), or check out my latest experiments.
