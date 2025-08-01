@@ -7,4 +7,4 @@ title: Home
 
 **Cybersecurity research. Digital disobedience. Keyboard worship.**
 
-Explore the [About Me](/about), dive into the [Blog](/blog), or check out my latest experiments.
+Explore the [About Me](/about), dive into the [Blog](/blog), or reach out at [Contact](/contact)
