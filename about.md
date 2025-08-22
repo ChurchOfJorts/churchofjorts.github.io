@@ -1,10 +1,8 @@
-
 ---
 layout: page
 title: About
 permalink: /about/
 ---
 
-I'm a cybersecurity analyst, digital explorer, and curator of the Church Of Jorts.
-
-This site showcases my research, reverse engineering writeups, and blog posts on all things infosec.
+# Hello! 
+My name is Morgen, I go by ChurchOfJorts, and I like malware.

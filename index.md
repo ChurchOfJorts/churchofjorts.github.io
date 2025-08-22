@@ -1,10 +1,6 @@
 ---
-layout: default
-title: Home
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 ---
-
-# 🛸 Welcome to the Church Of Jorts
-
-**Cybersecurity research. Digital disobedience. Keyboard worship.**
-
-Explore the [About Me](/about), dive into the [Blog](/blog), or reach out at [Contact](/contact)
