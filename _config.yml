@@ -27,9 +27,16 @@ domain: churchofjorts.com
 url: https://churchofjorts.com # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  churchofjorts
 # Build settings
-theme: minima
+remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed
+
+footer: '<a href="https://github.com/churchofjorts">github</a>  <a href="https://infosec.exchange/@churchofjorts">mastodon</a>'
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
