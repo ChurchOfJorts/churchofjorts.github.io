@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 # Hello! 
-My name is Morgen, I go by ChurchOfJorts, and I like malware.
+I'm Morgen! I'm a Security Analyst at Summit Credit Union where I primarily focus on IAM security, posture management, and threat analysis.
