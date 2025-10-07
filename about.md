@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Hello! 
-I'm Morgen! I'm a Security Analyst at Summit Credit Union where I primarily focus on IAM security, posture management, and threat analysis.
+I'm Morgen! I'm a Security Analyst and I primarily focus on Malware Analysis, Cloud Security, and software development.
 
 # Certifications
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (Apr 2025)
