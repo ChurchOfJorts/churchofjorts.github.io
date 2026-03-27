@@ -6,11 +6,13 @@ categories: Self
 ---
 Hello! 
 
-My name is Morgen, but I also go by the moniker ChurchOfJorts. Currently, I work as a security analyst and I like to focus on Bloodhound, Powershell research, or Malware reversing.
-Shout-out to the Incident Response Chaos Club.
+My name is Morgen, but I also go by the moniker ChurchOfJorts. Professionally, I'm a security analyst. Outside of work, I like to focus on Bloodhound, Powershell, Malware analysis, and playing with research in lab environments.
 
 ---
 {% highlight powershell %}
 Invoke-WebRequest -Uri churchofjorts.com
 {% endhighlight %}
 ---
+
+Shout-out to the Incident Response Chaos Club.
+
