@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "First post"
-date:   2025-08-22 16:02:45 -0500
+title:  "Crackme Write-Up - Kanax01s Fixed Easy Crackme"
+date:   2026-04-12 18:13:32 -0500
 categories: Self
 ---
 
